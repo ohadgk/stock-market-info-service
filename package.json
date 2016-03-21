@@ -1,0 +1,15 @@
+{
+  "name": "stock-market-info-service",
+  "version": "0.0.1",
+  "description": "This service will provide the oasis project all the necessery info about the stock market",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ohad Galor Kimchi",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
